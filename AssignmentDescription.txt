@@ -1,0 +1,5 @@
+Copy this code to a new Project.
+
+Modify the code so that:
+- it makes sure that the username is at least 6 characters when it is created.  
+- it makes sure that the password is at least 6 characters and contains at least one capital letter.
